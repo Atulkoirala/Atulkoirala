@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Koirala</h1>
-<h3 align="center">Full-stack fanatic: Code with boundless enthusiasm, design for users with unwavering dedication. 🚀💡</h3>
+<h3 align="center" color="red">Full-stack fanatic: Code with boundless enthusiasm, design for users with unwavering dedication. 🚀💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkoirala&label=Profile%20views&color=0e75b6&style=flat" alt="atulkoirala" /> </p>
 
